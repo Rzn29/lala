@@ -50,6 +50,6 @@ cat_animation() {
 }
 
 # Exibe o texto transformado
-type_text "$transformed_text" 0.05
+type_text "$transformed_text" 0.1
 sleep 1
 cat_animation
